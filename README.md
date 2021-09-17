@@ -5,13 +5,13 @@
 Please follow the instructions available here:
 
 CHECKERS INSTRUCTIONS:
-Select the piece you want to move, Open moves will appear as green circles
-To kill a piece, jump over it.
-If a kill move is possible, you are forced to do it.
-If a kill is possible after your kill, it is still your turn and you can make the next kill.
-If you reach the opposite end of the board, your piece becomes a king which can move forward and backward.
-Game continues until a player has run out of pieces.
-Good Luck!
+*   Select the piece you want to move, Open moves will appear as green circles.
+*   To kill a piece, jump over it.
+*   If a kill move is possible, you are forced to do it.
+*   If a kill is possible after your kill, it is still your turn and you can make the next kill.
+*   If you reach the opposite end of the board, your piece becomes a king which can move forward and backward.
+*   Game continues until a player has run out of pieces.
+*   Good Luck!
 
 ## Running JUnit tests in Codio
 
