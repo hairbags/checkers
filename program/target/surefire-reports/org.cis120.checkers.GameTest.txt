@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.cis120.checkers.GameTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.022 s <<< FAILURE! - in org.cis120.checkers.GameTest
+testCheckersSelectSquare  Time elapsed: 0.01 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: [Ljava.awt.Point;@6121c9d6<[java.awt.Point[x=1,y=3]]> but was: [Ljava.awt.Point;@87f383f<[java.awt.Point[x=1,y=3]]>
+	at org.cis120.checkers.GameTest.testCheckersSelectSquare(GameTest.java:93)
+
