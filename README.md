@@ -1,10 +1,17 @@
-### Checkers Game
+### Checkers Game by Samuel Lelyukh
 
-## Homework Instructions
+## Rules of Checkers
 
 Please follow the instructions available here:
 
-*   [Homework Description](http://www.cis.upenn.edu/~cis120/current/hw/hw09)
+CHECKERS INSTRUCTIONS:
+Select the piece you want to move, Open moves will appear as green circles
+To kill a piece, jump over it.
+If a kill move is possible, you are forced to do it.
+If a kill is possible after your kill, it is still your turn and you can make the next kill.
+If you reach the opposite end of the board, your piece becomes a king which can move forward and backward.
+Game continues until a player has run out of pieces.
+Good Luck!
 
 ## Running JUnit tests in Codio
 
@@ -24,16 +31,4 @@ Note that the Codio menu now provides two modes of running your project:
     previous item, select View Game. Assuming that a program is running, it will
     show the running application in a new window or tab.
 
-## Zipping and Submitting
-
-Once you are finished, use the "Zip" menu item to create a file called
-"hw09-submit(-time).zip" and upload it here:
-
-[Homework Submission Site](https://www.gradescope.com/courses/223042)
-
-## Codio Documentation
-
-Codio documentation can be found here:
-
-[CIS 120 Codio Documentation](https://www.seas.upenn.edu/~cis120/current/codio/)
 # checkers
